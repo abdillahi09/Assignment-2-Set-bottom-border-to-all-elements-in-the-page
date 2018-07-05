@@ -1,0 +1,6 @@
+
+/*Set border bottom to all the elements is exit and also for future elements. */
+* {
+border-bottom: 1px solid black;
+}
+		
